@@ -64,5 +64,6 @@ class Perpustakaan {
 				}
 		}
 	scanner.close();
+	// pekan 2
 		}
 	}

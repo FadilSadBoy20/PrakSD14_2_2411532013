@@ -18,5 +18,5 @@ public class ArrayList1 {
 			System.out.print(arrli.get(i) + " ");
 
 	}
-
+	// pekan 1
 }

@@ -16,5 +16,5 @@ public class ArrayListSisip {
 		System.out.println(list);
 
 	}
-
+	// pekan 1
 }

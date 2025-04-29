@@ -16,5 +16,5 @@ public class ArrayListGetElemen {
 		Integer n = list.get(1);
 		System.out.println("Pada Indeks ke 1 angkanya adalah:" + n);
 	}
-
+	// pekan 1
 }

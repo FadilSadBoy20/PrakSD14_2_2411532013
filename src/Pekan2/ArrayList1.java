@@ -14,5 +14,5 @@ public class ArrayList1 {
 			System.out.println(fruit);
 		}
 	}
-
+	// pekan 2
 }
