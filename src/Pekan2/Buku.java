@@ -1,6 +1,7 @@
 package Pekan2;
 
 import java.util.*;
+import java.util.LinkedList;
 
 class Buku {
 	String judul, pengarang,isbn;
@@ -39,7 +40,7 @@ class Perpustakaan {
 		Perpustakaan perpustakaan = new Perpustakaan();
 		Scanner scanner = new Scanner(System.in);
 		while (true) {
-			System.out.println("1. Tambah Buku\n2. Pinjam Buku\n" + "3. Kembalikan Buku\n4. Keluar");
+			System.out.println("1. Tambah Buku\n2. Pinjam Buku\n3. Kembalikan Buku\n4. Keluar");
 			System.out.print("Pilih opsi: ");
 			int pilihan = scanner.nextInt();
 			scanner.nextLine();
